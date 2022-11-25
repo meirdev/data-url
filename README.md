@@ -15,3 +15,9 @@ From text:
 ```bash
 python -m data_url -t "Hello, world!"
 ```
+
+Result:
+
+```text
+data:text/plain;base64,SGVsbG8sIHdvcmxkIQ==
+```
